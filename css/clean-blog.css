@@ -34,6 +34,10 @@ a:focus, a:hover {
   color: #0085A1;
 }
 
+hr {
+  padding-bottom: 30px;
+}
+
 blockquote {
   font-style: italic;
   color: #868e96;
@@ -196,7 +200,7 @@ header.masthead .overlay {
 header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
-  padding: 130px 0;
+  padding: 100px 0 50px;
   color: white;
 }
 
@@ -375,7 +379,7 @@ form .form-group:first-child .floating-label-form-group {
 }
 
 footer {
-  padding: 50px 0 65px;
+  padding: 0 0 20px;
 }
 
 footer .list-inline {
